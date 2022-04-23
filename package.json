@@ -28,5 +28,9 @@
     "web-vitals": "^2.1.4"
   },
   "main": "dist/index.cjs.js",
-  "module": "dist/index.esm.js"
+  "module": "dist/index.esm.js",
+  "files": ["dist/*"],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
