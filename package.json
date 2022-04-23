@@ -1,6 +1,6 @@
 {
   "name": "@DavidDHansson/react-test-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A test package to learn react component packages",
   "scripts": {
     "build": "rollup -c",
