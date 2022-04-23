@@ -1,0 +1,28 @@
+{
+  "name": "react-test-package",
+  "version": "1.0.0",
+  "description": "A test package to learn react component packages",
+  "scripts": {
+    "build": "rollup -c",
+    "build-watch": "rollup -c -w"
+  },
+  "keywords": [],
+  "author": "David",
+  "license": "ISC",
+  "devDependencies": {
+    "-": "^0.0.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.1",
+    "rollup": "^2.70.2",
+    "rollup-plugin-delete": "^2.0.0",
+    "web-vitals": "^2.1.4"
+  },
+  "peerDependencies": {
+    "react": "^16.10.2",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js"
+}
