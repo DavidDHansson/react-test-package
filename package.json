@@ -1,7 +1,7 @@
 {
   "name": "@daviddhansson/react-test-package",
   "repository": "git://github.com/DavidDHansson/react-test-package.git",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A test package to learn react component packages",
   "scripts": {
     "build": "rollup -c",
